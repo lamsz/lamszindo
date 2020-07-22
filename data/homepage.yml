@@ -1,0 +1,154 @@
+# showcase
+showcase:
+  enable: true
+  title: "Lamsz Indonesia"
+  subtitle: "Berdakwah bersama kami"
+  description: "Kami mencoba menyebarkan pengetahuan Islam melalui aplikasi android dan ios"
+  image:
+    x: "img/showcase/showcase.png"
+    _2x: "img/showcase/showcase@2x.png"
+  imageMobile:
+    x: "img/showcase/showcase-mobile.png"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "mailto:admin@lamsz.my.id"
+
+  socialLinks:
+    - icon: "instagram"
+      URL: "https://lamsz.my.id/"
+
+    - icon: "facebook"
+      URL: "https://lamsz.my.id"
+
+# about
+about:
+  enable: true
+  title: "Who Are we?"
+  content: '<p class="lead">
+    Lamsz Indonesia berfokus kepada penyebaran pengetahuan Islam melalui aplikasi
+    </p>
+    <p class="lead">
+    Kami berusaha membuat sesuatu yang berguna bagi umat
+    </p>'
+  button:
+    icon: "icon-smile-fill"
+    btnText: "our apps"
+    URL: "https://lamsz.my.id"
+  image:
+    x: "img/about/facebook_cover_photo_2.png"
+    _2x: "img/about/facebook_cover_photo_2.png"
+# about
+team:
+  enable: true
+  title: "Our Team"
+  items:
+    - name: "Adi Alamsyah"
+      position: "Co Founder & Developer"
+      content: "Orang yang paling baik adalah yang paling banyak manfaatnya bagi orang lain."
+      image:
+        x: "img/about/adi.jpg"
+        _2x: "img/about/adi.jpg"
+
+    - name: "Lukmanul Hakym"
+      position: "Co Founder & Developer"
+      content: "Sepertiga dari Al Quran adalah kisah - Sejarah berulang"
+      image:
+        x: "img/about/lukman.jpg"
+        _2x: "img/about/lukman.jpg"
+
+
+
+# experience
+app:
+  title: "Aplikasi Kami"
+  enable: true
+
+  works:
+    - title: "Hewan dalam Alquran"
+      description: "Aplikasi ini memberikan pengetahuan tentang hewan-hewan dalam Alquran, dan bagaiman penyebutannya dalam berbagai bahasa"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Download"
+        URL: "https://play.google.com/store/apps/details?id=com.alamsz.hewanhewan"
+      # image:
+      #   x: "img/works/robo-advisor.jpg"
+      #   _2x: "img/works/robo-advisor@2x.jpg"
+      is_even: false
+    - title: "Hello Muslim"
+      description: "Sebuah aplikasi pendamping untuk muslim dari petunjuk tentang waktu sholat, produk halal dan Alquran"
+      button:
+        # icon: "icon-arrow-right"
+        btnText: "Coming Soon"
+        # URL: "#"
+      # image:
+      #   x: "img/works/radity-finance.jpg"
+      #   _2x: "img/works/radity-finance@2x.jpg"
+      is_even: true
+    - title: "Kisahkan"
+      description: "Sebuah aplikasi yang berawal dari kebutuhan pribadi untuk menyampaikan cerita-cerita sebelum tidur yang mendidik"
+      button:
+        # icon: "icon-arrow-right"
+        btnText: "Coming Soon"
+        # URL: "#"
+      # image:
+      #   x: "img/works/swissfintech.jpg"
+      #   _2x: "img/works/swissfintech@2x.jpg"
+      is_even: false
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Testimonials"
+  items:
+    - name: "Zidan Fattah Rasyad Alamsyah"
+      position: "People"
+      content: "Berbagi ilmu yang bermanfaat"
+      image:
+        x: "img/testimonials/zidan.png"
+        _2x: "img/testimonials/zidan.png"
+
+    - name: "Khaira Talitha Alamsyah"
+      position: "People"
+      content: "Layaknya sedekah"
+      image:
+        x: "img/testimonials/khaira.png"
+        _2x: "img/testimonials/khaira.png"
+
+    - name: "Muhammad Rayyan"
+      position: "People"
+      content: "bisa membawamu ke surga"
+      image:
+        x: "img/testimonials/rayyan.jpg"
+        _2x: "img/testimonials/rayyan.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    action: "#"
+    full_name: "Lamsz Indonesia"
+    email: "admin@lamsz.my.id"
+    message: "Type Your Message Here"
+  phone:
+    title: "Phone Number"
+    number: ""
+  email:
+    title: "Email"
+    email: '<a href="mailto:admin@lams.my.id">admin@lamsz.my.id</a>'
+  address:
+    title: "Address"
+    address: "Yogyakarta, Indonesia"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Kirim Pesan"
+
+# newsletter
+newsletter:
+  enable: true
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "Kami tidak akan membagikan email anda ke orang lain"

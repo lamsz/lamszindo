@@ -1,0 +1,93 @@
+baseURL = "https://peaceful-bassi-71f323.netlify.app/"
+languageCode = "en-us"
+theme = "raditian"
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "css/main.css"
+  [[params.plugins.css]]
+  URL = "css/rad-icons.css"
+  [[params.plugins.css]]
+  URL = "css/custom.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "js/rad-animations.js"
+  [[params.plugins.js]]
+  URL = "js/sticky-header.js"
+  [[params.plugins.js]]
+  URL = "js/library/fontfaceobserver.js"
+
+
+# navigation
+[menu]
+
+[[menu.header]]
+name = "Home"
+URL = "#showcase"
+weight = 1
+
+[[menu.header]]
+name = "Our Apps"
+URL = "#app"
+weight = 3
+
+[[menu.header]]
+name = "Testimonial"
+URL = "#testimonial"
+weight = 4
+
+  [[menu.header]]
+name = "About Us"
+URL = "#about"
+weight = 5
+
+[[menu.header]]
+name = "Contact"
+URL = "#contact"
+weight = 6
+
+[[menu.footer]]
+name = "Home"
+URL = "#showcase"
+weight = 1
+
+[[menu.footer]]
+name = "Our Apps"
+URL = "#app"
+weight = 3
+
+
+[[menu.footer]]
+name = "Testimonial"
+URL = "#testimonial"
+weight = 4
+
+[[menu.footer]]
+name = "About Us"
+URL = "#about"
+weight = 5
+
+[[menu.footer]]
+name = "Contact"
+URL = "#contact"
+weight = 6
+
+
+
+[params]
+
+  sections = ["showcase", "app", "testimonial", "about", "team",  "contact", "newsletter"]
+
+  googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
+
+  [params.logo]
+    text1 = "Lamsz"
+    text2 = "Indonesia"
+
+  [params.footer]
+      copyright = "© Lamsz Indonesia. All rights reserved."
+      
