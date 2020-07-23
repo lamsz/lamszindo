@@ -5,10 +5,10 @@ showcase:
   subtitle: "Berdakwah bersama kami"
   description: "Kami mencoba menyebarkan pengetahuan Islam melalui aplikasi android dan ios"
   image:
-    x: "img/showcase/showcase.png"
-    _2x: "img/showcase/showcase@2x.png"
+    x: "img/showcase/lamsz.png"
+    _2x: "img/showcase/lamsz@2x.png"
   imageMobile:
-    x: "img/showcase/showcase-mobile.png"
+    x: "img/showcase/lamsz.png"
 
   button:
     icon: "icon-mail-fill"
@@ -37,8 +37,8 @@ about:
     btnText: "our apps"
     URL: "https://lamsz.my.id"
   image:
-    x: "img/about/facebook_cover_photo_2.png"
-    _2x: "img/about/facebook_cover_photo_2.png"
+    x: "img/about/logo_transparant.png"
+    _2x: "img/about/logo_transparant.png"
 # about
 team:
   enable: true
@@ -72,19 +72,19 @@ app:
         icon: "icon-arrow-right"
         btnText: "Download"
         URL: "https://play.google.com/store/apps/details?id=com.alamsz.hewanhewan"
-      # image:
-      #   x: "img/works/robo-advisor.jpg"
-      #   _2x: "img/works/robo-advisor@2x.jpg"
+      image:
+        x: "img/ourapps/hewanodd.jpg"
+        _2x: "img/ourapps/hewanodd.jpg"
       is_even: false
-    - title: "Hello Muslim"
+    - title: "Jalan Muslim"
       description: "Sebuah aplikasi pendamping untuk muslim dari petunjuk tentang waktu sholat, produk halal dan Alquran"
       button:
         # icon: "icon-arrow-right"
         btnText: "Coming Soon"
         # URL: "#"
-      # image:
-      #   x: "img/works/radity-finance.jpg"
-      #   _2x: "img/works/radity-finance@2x.jpg"
+      image:
+        x: "img/ourapps/muslimeven.jpg"
+        _2x: "img/ourapps/muslimeven.jpg"
       is_even: true
     - title: "Kisahkan"
       description: "Sebuah aplikasi yang berawal dari kebutuhan pribadi untuk menyampaikan cerita-cerita sebelum tidur yang mendidik"
@@ -92,14 +92,14 @@ app:
         # icon: "icon-arrow-right"
         btnText: "Coming Soon"
         # URL: "#"
-      # image:
-      #   x: "img/works/swissfintech.jpg"
-      #   _2x: "img/works/swissfintech@2x.jpg"
+      image:
+        x: "img/ourapps/kisahkanodd.jpg"
+        _2x: "img/ourapps/kisahkanodd.jpg"
       is_even: false
 
 # testimonial
 testimonial:
-  enable: true
+  enable: false
   title: "Testimonials"
   items:
     - name: "Zidan Fattah Rasyad Alamsyah"
@@ -147,7 +147,7 @@ contact:
 
 # newsletter
 newsletter:
-  enable: true
+  enable: false
   title: "Newsletter subscription"
   success_message: "Successfully subscribed"
   error_message: "Error while subscribing."

@@ -1,4 +1,4 @@
-baseURL = "https://peaceful-bassi-71f323.netlify.app/"
+baseURL = "https://lamsz.my.id/"
 languageCode = "en-us"
 theme = "raditian"
 
@@ -35,11 +35,6 @@ name = "Our Apps"
 URL = "#app"
 weight = 3
 
-[[menu.header]]
-name = "Testimonial"
-URL = "#testimonial"
-weight = 4
-
   [[menu.header]]
 name = "About Us"
 URL = "#about"
@@ -61,10 +56,6 @@ URL = "#app"
 weight = 3
 
 
-[[menu.footer]]
-name = "Testimonial"
-URL = "#testimonial"
-weight = 4
 
 [[menu.footer]]
 name = "About Us"
