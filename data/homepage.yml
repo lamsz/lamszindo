@@ -27,10 +27,11 @@ about:
   enable: true
   title: "Who Are we?"
   content: '<p class="lead">
-    Lamsz Indonesia berfokus kepada penyebaran pengetahuan Islam melalui aplikasi
+    Lamsz Indonesia berfokus kepada penyebaran pengetahuan Islam secara digital melalui aplikasi, 
+    karena era digital meng-enable kami untuk berbagi dengan mudah
     </p>
     <p class="lead">
-    Kami berusaha membuat sesuatu yang berguna bagi umat
+    Kami berusaha membuat sesuatu yang berguna bagi pendidikan umat
     </p>'
   button:
     icon: "icon-smile-fill"
@@ -67,7 +68,7 @@ app:
 
   works:
     - title: "Hewan dalam Alquran"
-      description: "Aplikasi ini memberikan pengetahuan tentang hewan-hewan dalam Alquran, dan bagaiman penyebutannya dalam berbagai bahasa"
+      description: "Aplikasi ini memberikan pengetahuan tentang hewan-hewan dalam Alquran untuk anak, bagaimana melafalkannya dalam berbagai bahasa, dan kisah2 nya dalam Alquran"
       button:
         icon: "icon-arrow-right"
         btnText: "Download"
@@ -76,8 +77,8 @@ app:
         x: "img/ourapps/hewanodd.jpg"
         _2x: "img/ourapps/hewanodd.jpg"
       is_even: false
-    - title: "Jalan Muslim"
-      description: "Sebuah aplikasi pendamping untuk muslim dari petunjuk tentang waktu sholat, produk halal dan Alquran"
+    - title: "Hello Muslim"
+      description: "Sebuah aplikasi agregasi, yang berfungsi sebagai pendamping muslim untuk mendapatkan informasi tentang Islam, pengingat waktu sholat, produk halal dan Alquran"
       button:
         # icon: "icon-arrow-right"
         btnText: "Coming Soon"
@@ -87,7 +88,7 @@ app:
         _2x: "img/ourapps/muslimeven.jpg"
       is_even: true
     - title: "Kisahkan"
-      description: "Sebuah aplikasi yang berawal dari kebutuhan pribadi untuk menyampaikan cerita-cerita sebelum tidur yang mendidik"
+      description: "Sebuah aplikasi yang berawal dari kebutuhan pribadi untuk menyampaikan cerita-cerita sebelum tidur yang mendidik, dan sesuai dengan prinsip-prinsip Islam"
       button:
         # icon: "icon-arrow-right"
         btnText: "Coming Soon"
