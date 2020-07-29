@@ -77,7 +77,7 @@ app:
         x: "img/ourapps/hewanodd.jpg"
         _2x: "img/ourapps/hewanodd.jpg"
       is_even: false
-    - title: "Hello Muslim"
+    - title: "Jalan Muslim"
       description: "Sebuah aplikasi agregasi, yang berfungsi sebagai pendamping muslim untuk mendapatkan informasi tentang Islam, pengingat waktu sholat, produk halal dan Alquran"
       button:
         # icon: "icon-arrow-right"
