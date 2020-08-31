@@ -17,10 +17,10 @@ showcase:
 
   socialLinks:
     - icon: "instagram"
-      URL: "https://lamsz.my.id/"
+      URL: "https://www.lamsz.id/"
 
     - icon: "facebook"
-      URL: "https://lamsz.my.id"
+      URL: "https://www.lamsz.id"
 
 # about
 about:
@@ -71,7 +71,7 @@ app:
       description: "Aplikasi ini memberikan pengetahuan tentang hewan-hewan dalam Alquran untuk anak, bagaimana melafalkannya dalam berbagai bahasa, dan kisah2 nya dalam Alquran"
       button:
         icon: "icon-arrow-right"
-        btnText: "Download"
+        btnText: "Install"
         URL: "https://play.google.com/store/apps/details?id=com.alamsz.hewanhewan"
       image:
         x: "img/ourapps/hewanodd.jpg"
@@ -80,9 +80,9 @@ app:
     - title: "Jalan Muslim"
       description: "Sebuah aplikasi agregasi, yang berfungsi sebagai pendamping muslim untuk mendapatkan informasi tentang Islam, pengingat waktu sholat, produk halal dan Alquran"
       button:
-        # icon: "icon-arrow-right"
-        btnText: "Coming Soon"
-        # URL: "#"
+        icon: "icon-arrow-left"
+        btnText: "Install"
+        URL: "https://play.google.com/store/apps/details?id=com.alamsz.jalan_muslim"
       image:
         x: "img/ourapps/muslimeven.jpg"
         _2x: "img/ourapps/muslimeven.jpg"
