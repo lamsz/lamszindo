@@ -31,7 +31,7 @@ about:
     karena era digital meng-enable kami untuk berbagi dengan mudah
     </p>
     <p class="lead">
-    Kami berusaha membuat sesuatu yang berguna bagi pendidikan umat
+    Kami berusaha membuat sesuatu yang berguna bagi umat
     </p>'
   button:
     icon: "icon-smile-fill"
@@ -52,12 +52,19 @@ team:
         x: "img/about/adi.jpg"
         _2x: "img/about/adi.jpg"
 
-    - name: "Lukmanul Hakym"
+    - name: "Lukman AbuZare"
       position: "Co Founder & Developer"
-      content: "Sepertiga dari Al Quran adalah kisah - Sejarah berulang"
+      content: "Berusaha menjadi makhluk yang diridhoi-Nya"
       image:
         x: "img/about/lukman.jpg"
         _2x: "img/about/lukman.jpg"
+    
+    - name: "Fauzan"
+      position: "SEO & Marketing"
+      content: "Berusaha sebaik - baiknya"
+      image:
+        x: "img/about/usa.jpg"
+        _2x: "img/about/usa.jpg"
 
 
 
@@ -80,7 +87,7 @@ app:
     - title: "Jalan Muslim"
       description: "Sebuah aplikasi agregasi, yang berfungsi sebagai pendamping muslim untuk mendapatkan informasi tentang Islam, pengingat waktu sholat, produk halal dan Alquran"
       button:
-        icon: "icon-arrow-left"
+        icon: "icon-arrow-right"
         btnText: "Install"
         URL: "https://play.google.com/store/apps/details?id=com.alamsz.jalan_muslim"
       image:
@@ -90,9 +97,9 @@ app:
     - title: "Kisahkan"
       description: "Sebuah aplikasi yang berawal dari kebutuhan pribadi untuk menyampaikan cerita-cerita sebelum tidur yang mendidik, dan sesuai dengan prinsip-prinsip Islam"
       button:
-        # icon: "icon-arrow-right"
-        btnText: "Coming Soon"
-        # URL: "#"
+        icon: "icon-arrow-right"
+        btnText: "Install"
+        URL: "https://play.google.com/store/apps/details?id=com.lamsz.kisahkan"
       image:
         x: "img/ourapps/kisahkanodd.jpg"
         _2x: "img/ourapps/kisahkanodd.jpg"
@@ -100,29 +107,29 @@ app:
 
 # testimonial
 testimonial:
-  enable: false
+  enable: true
   title: "Testimonials"
   items:
-    - name: "Zidan Fattah Rasyad Alamsyah"
-      position: "People"
-      content: "Berbagi ilmu yang bermanfaat"
+    - name: "Alifah"
+      position: "untuk aplikasi Kisahkan"
+      content: "Assalamualaikum. Namaku Alifah, umurku 7 tahun. Alhamdulillah, aku sudah kelas 1 SD. Aku senang membaca kisah di aplikasi Kisahkan. Ceritanya banyak, ceritanya juga menarik. Ada gambarnya, bagus -  bagus. Ada suaranya juga. Suaranya lucu - lucu loh. Wassalamualaikum"
       image:
-        x: "img/testimonials/zidan.png"
-        _2x: "img/testimonials/zidan.png"
+        x: "img/testimonials/alifah.png"
+        _2x: "img/testimonials/alifah.png"
 
-    - name: "Khaira Talitha Alamsyah"
-      position: "People"
-      content: "Layaknya sedekah"
+    - name: "Zahidah"
+      position: "untuk aplikasi Kisahkan"
+      content: "Assalamualaikum, aku Zahidah. Umurku 2 tahun. Aku suka kalo Abi atau Ummi membacakan kisah. Aku suka kisah Nabi Muhammad dan Kisah Nabi Yunus dan Ikan Paus. Tapi kalo Abi dan Ummi sedang ada pekerjaan, aku baca kisahnya di aplikasi Kisahkan di hpnya Abi. Meskipun aku belum bisa baca aku senang lihat gambarnya dan mendengarkan kisahnya dari audio yang ada. Alhamdulillah. Tapi ingat ya, kalo pinjam hpnya Abi atau Ummi ndak boleh lama lama ya. Wassalamualaikum"
       image:
-        x: "img/testimonials/khaira.png"
-        _2x: "img/testimonials/khaira.png"
+        x: "img/testimonials/aisyah.png"
+        _2x: "img/testimonials/aisyah.png"
 
-    - name: "Muhammad Rayyan"
-      position: "People"
-      content: "bisa membawamu ke surga"
-      image:
-        x: "img/testimonials/rayyan.jpg"
-        _2x: "img/testimonials/rayyan.jpg"
+    # - name: "Muhammad Rayyan"
+    #   position: "People"
+    #   content: "bisa membawamu ke surga"
+    #   image:
+    #     x: "img/testimonials/rayyan.jpg"
+    #     _2x: "img/testimonials/rayyan.jpg"
 
 # contact
 contact:
